@@ -1,5 +1,6 @@
 # Convolution-Neural-Network
 I.	INTRODUCTION:
+
 In this modern day and age, artificial intelligence has been developing exponentially fast. Rapid improvements in technique and data lead to a remarkable increase in calculations. Its sub-categories, machine learning and deep learning, have reached a point where billions of calculations must be done to compute the millions of parameters in a model.
 Convolutional neural network (CNN) is one of the most widely used type of network used in deep learning. Its usage can be seen in a wide range of applications, particularly in fields that involve image and video analysis. However advanced a CNN model maybe, it always stems from matrix computations and most notably, convolution operations.
 
