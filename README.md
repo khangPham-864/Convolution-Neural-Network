@@ -1,4 +1,4 @@
-**Convolutional Neural Network (CNN)**
+## Convolutional Neural Network (CNN)
 This project demonstrates the implementation in both Python and MIPS Assembly of a basic convolutional neural network (CNN), focusing on the core mathematical operations: padding and convolution
 
 **Tech Stack**
