@@ -25,7 +25,9 @@ Demo input/output examples and diagrams can be found in the Report.doc file.
 **How to Run**
 Python
 1. Ensure Python and NumPy installed.
-2. Download convolution_calculation.py file and run the simulation.
+2. Install VS Code.
+3. Install Python Extention in VS Code
+4. Download convolution_calculation.py file and run the simulation on VS Code.
 
 MIPS
 1. Install MARS.
@@ -33,4 +35,4 @@ MIPS
    + source_code.asm
    + input_matrix.txt
    + output matrix.txt
-3. Run the program – results will be written to output.txt.
+3. Run the source_code.asm file on MARS – results will be written to output.txt.
