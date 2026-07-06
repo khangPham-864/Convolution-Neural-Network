@@ -1,7 +1,7 @@
 .data	
 	bufferread: .space 1000 	# Buffer to store file content
-	fileO: .asciiz "YOUR_FILE"          
-	filename: .asciiz "YOUR_FILE"              
+	fileO: .asciiz "YOUR_PATH"          
+	filename: .asciiz "YOUR_PATH"              
 	newline: .asciiz "\n"
 	space: .asciiz " "
 	error_open: .asciiz "File is not exist!"
