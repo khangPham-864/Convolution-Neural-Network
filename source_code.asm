@@ -1,7 +1,7 @@
 .data	
 	bufferread: .space 1000 	# Buffer to store file content
-	fileO: .asciiz "D:\\KHANG\\BK\\Sem 4.1\\Computer Architecture\\Lab\\Assignment\\input_matrix.txt"          
-	filename: .asciiz "D:\\KHANG\\BK\\Sem 4.1\\Computer Architecture\\Lab\\Assignment\\output matrix.txt"              
+	fileO: .asciiz "YOUR_FILE"          
+	filename: .asciiz "YOUR_FILE"              
 	newline: .asciiz "\n"
 	space: .asciiz " "
 	error_open: .asciiz "File is not exist!"
